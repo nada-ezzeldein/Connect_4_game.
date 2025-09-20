@@ -1,0 +1,17 @@
+# Visual Studio build files
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.idb
+*.exe
+*.log
+*.user
+*.suo
+*.cache
+*.ipch
+*.aps
+*.ncb
+*.ilk
+*.dll
