@@ -10,7 +10,7 @@ Features:
 - Simple and user-friendly console interface.
 -----------------------------------------------------------------------------
 Developed by:
--Nada Ezz El_dein.
--Hadeer Mostafa.
--Yosra Amin.
--Sandy Makram.
+- Nada Ezz El_dein.
+- Hadeer Mostafa.
+- Yosra Amin.
+- Sandy Makram.
